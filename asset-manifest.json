@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/time-estimator-app/static/js/main.73f114c9.js",
+    "static/js/787.86a24b6d.chunk.js": "/time-estimator-app/static/js/787.86a24b6d.chunk.js",
+    "index.html": "/time-estimator-app/index.html",
+    "main.73f114c9.js.map": "/time-estimator-app/static/js/main.73f114c9.js.map",
+    "787.86a24b6d.chunk.js.map": "/time-estimator-app/static/js/787.86a24b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.73f114c9.js"
+  ]
+}
